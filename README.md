@@ -5,6 +5,9 @@ Foi um projeto muito divertido de se fazer, aprendi muitas coisas novas sobre Ja
 Fiz acompanhando um canal no youtube chamado Manual do Dev onde ele ensina a fazer essa pokedex,
 e acompanharei mais o trabalho dele.
 
+### Link 
+https://oanthonyg.github.io/Pokedex/
+
 ### Screenshot
 
 ![](./FireShot%20Capture%20-%20Pokedex.png)
